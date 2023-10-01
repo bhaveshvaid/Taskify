@@ -84,7 +84,7 @@ function App() {
 
   return (
     <>
-      <div className="main_div">``
+      <div className="main_div">
           <h1 className="heading">
             <span><img className=" logot" src="logo.png" height="50vh"/></span>ask<span className="txtLight">ify</span>{" "}
           </h1>
