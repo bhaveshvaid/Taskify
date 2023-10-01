@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import "./App.css";
 
+
 function App() {
   const [newTitle, setTitle] = useState("");
   const [desc, setDesc] = useState("");
@@ -85,7 +86,7 @@ function App() {
     <>
       <div className="main_div">``
           <h1 className="heading">
-            <span><img className=" logot"src="./src/assets/logo.png" height="50vh"/></span>ask<span className="txtLight">ify</span>{" "}
+            <span><img className=" logot" src="logo.png" height="50vh"/></span>ask<span className="txtLight">ify</span>{" "}
           </h1>
           <div className="input_div">
             <input
