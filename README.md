@@ -1,5 +1,7 @@
-#Taskify#
-##An effective task manager app with secure user authentication##
+Taskify
+========
+An effective task manager app with secure user authentication
+=============================================================
 
 This is a react based web application for tASK management. You simply have to just *login* if already had an Id othewise just *sign up* for a new ID and enjoy a sorted and well planned life with managed tasks.
 
